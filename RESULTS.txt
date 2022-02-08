@@ -1,0 +1,50 @@
+ no_registed_height 
+--------------------
+              47315
+(1 row)
+
+ shares_name_with_harrison_ford 
+--------------------------------
+                             64
+(1 row)
+
+ total_nr_of_moves 
+-------------------
+                89
+(1 row)
+
+ number_of_duplicates 
+----------------------
+                  143
+(1 row)
+
+ directed_by_steven_speilberg 
+------------------------------
+                         2219
+(1 row)
+
+ no_registed_entry_in_involved 
+-------------------------------
+                             7
+(1 row)
+
+ have_acted_and_directed_more_than_one_film 
+--------------------------------------------
+                                        345
+(1 row)
+
+ movies_registed_in_involved_1990 
+----------------------------------
+                              250
+(1 row)
+
+ nr_of_persons_in_all_generes 
+------------------------------
+                            1
+(1 row)
+
+ most_referenced 
+-----------------
+ Star Wars
+(1 row)
+
